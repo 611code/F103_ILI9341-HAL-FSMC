@@ -302,10 +302,10 @@ CLK   PORT   PIN 全部删除或注释。仅保留如下（修改后的）
 
 根据原理图
 
-![image-20250516205243075](C:\Users\34125\Desktop\ILI9341_HAL\assets\image-20250516205243075.png)
+![image-20250516205243075](\\assets\image-20250516205243075.png)
 
 RS对应引脚为FSMC_A23(这个关乎能否读取到数据)
 
 CUBEMX具体配置如下：
 
-![image-20250516205356112](C:\Users\34125\Desktop\ILI9341_HAL\assets\image-20250516205356112.png)
+![image-20250516205356112](\\assets\image-20250516205356112.png)
